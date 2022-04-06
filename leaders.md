@@ -1,4 +1,5 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Soumik Pyne ](mailto:soumik.pyne@owasp.org)
+* [Akash Majumder ](mailto:akash.majumder@owasp.org)
+* [Suvankar Sen ](mailto:suvankar.sen@owasp.org)
+* [Mannu Priya](mailto:mannu.priya@owasp.org)
