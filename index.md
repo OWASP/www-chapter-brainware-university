@@ -5,7 +5,7 @@ title: OWASP BRAINWARE UNIVERSITY
 site_side: true
 tags: BRAINWARE-UNIVERSITY
 level: 0
-meetup-group: owasp-brainware-university-student-chapter
+meetup-group: Owasp-Brainware-University-Student-Chapter
 region: Asia
 altfooter: true
 country: India
