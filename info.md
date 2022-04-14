@@ -3,5 +3,5 @@
 
 ### Social Links
 * [Meetup](http://www.meetup.com/OWASP-BRAINWARE-UNIVERSITY)
-* [twitter](https://twitter.com/owasp_brainware)
-* [slack](https://owasp.slack.com)
+* [Twitter](https://twitter.com/owasp_brainware)
+* [Slack](https://owasp.slack.com)
