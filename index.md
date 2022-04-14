@@ -18,9 +18,9 @@ Welcome to the BRAINWARE chapter homepage!
 
 #### Check our Upcoming Meetup Events:
 All of our meetings and meeting details can be found on our Meetup page.
-Please visit <https://www.meetup.com/OWASP-BRAINWARE-UNIVERSITY/events/> to view our upcoming and past meetings.
+Please visit <https://www.meetup.com/owasp-brainware-university-student-chapter/> to view our upcoming and past meetings.
 
-[<img src="assets/images/logo-meetup.svg" style="width: 40%;" alt="OWASP BRAINWARE on Meetup.com" />](http://www.meetup.com/OWASP-BRAINWARE-UNIVERSITY)
+[<img src="assets/images/logo-meetup.svg" style="width: 40%;" alt="OWASP BRAINWARE on Meetup.com" />](https://www.meetup.com/owasp-brainware-university-student-chapter/)
 <br style="clear: left;"/>
 
 {% include chapter_events.html group=page.meetup-group %}
