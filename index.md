@@ -47,7 +47,6 @@ We're especially interested in partnering with local educational institutions to
 If you represent one of these institutions, please do not hesitate to contact the listed leadership team to see how we can form a mutually beneficial partnership.
  
  ## Sponsors
- --------------------
  The following are the list of organizations/teams who have supported the OWASP BRAINWARE UNIVERSITY chapter in a different way:
 
  <table cellpadding="15" cellspacing="0">
