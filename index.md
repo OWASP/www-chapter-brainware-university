@@ -52,7 +52,7 @@ If you represent one of these institutions, please do not hesitate to contact th
 
  <table cellpadding="15" cellspacing="0">
  <tr>
- <td height="150" width="150" >
+ <td height="300" width="300" >
 
  <a href="https://www.ovelosec.com/"><img src="assets/images/ovelosec.png" alt="ovelosec"/></a>
 
