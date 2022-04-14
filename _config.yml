@@ -1,0 +1,4 @@
+remote_theme: "owasp/www--site-theme@main"
+repository: OWASP/www-chapter-brainware-university
+plugins:
+ - jekyll-include-cache-0.2.0
