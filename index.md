@@ -2,12 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Brainware University
-site_side: true
 tags: BRAINWARE-UNIVERSITY
-level: 0
 meetup-group: owasp-brainware-university-student-chapter
 region: Asia
-altfooter: true
 country: India
 
 ---
