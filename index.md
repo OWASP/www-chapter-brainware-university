@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Brainware University
+title: OWASP Brainware University - Student Chapter
 site_side: true
 tags: BRAINWARE-UNIVERSITY
 level: 0
