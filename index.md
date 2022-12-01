@@ -11,6 +11,8 @@ country: India
 
 ---
 
+<!-- rebuild 001 -->
+
 Welcome to the BRAINWARE chapter homepage!
 
 <img src="assets/images/OWASP-BRAINWARE.png" style="width: 50%; height: 50%;" alt="OWASP BRAINWARE Logo" />
