@@ -7,7 +7,6 @@ tags: BRAINWARE-UNIVERSITY
 level: 0
 meetup-group: owasp-brainware-university-student-chapter
 region: Asia
-altfooter: true
 country: India
 
 ---
@@ -30,7 +29,7 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 The purpose of this chapter is to support the goals of the foundation and to advance local application security technical expertise by establishing a local community, encouraging participation, creating strategic partnerships with local institutions and facilitating events led by the community for the community.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/operational/chapter-handbook-existing.html).
+Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/operational/chapters).
 
 To be a speaker at any OWASP Chapter in the world simply review the [speaker agreement](/www-policy/legal/speaker-agreement.html) and then contact any of the local chapter leaders with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
