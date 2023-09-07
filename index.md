@@ -27,7 +27,7 @@ Please visit <https://www.meetup.com/owasp-brainware-university-student-chapter/
 {% include chapter_events.html group=page.meetup-group %}
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
 The purpose of this chapter is to support the goals of the foundation and to advance local application security technical expertise by establishing a local community, encouraging participation, creating strategic partnerships with local institutions and facilitating events led by the community for the community.
 
